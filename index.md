@@ -14,3 +14,7 @@
         }
     }
 ```
+
+- [ ] Learn Markdown
+- [ ] Pass exercises
+- [ ] Complete module
